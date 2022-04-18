@@ -3,6 +3,8 @@
 
 The purpose of this election audit was delivering several final products as a result of a Python code. The overall products involved election results. The first was obtaining the results of the election from around ~370,000 votes. These votes were counted from three counties: Jefferson, Denver, and Arapahoe and included three final candidates: Stockham, DeGette, and Doane. The results included the voter count by county, the count by candidate, and the largest turnout by county along with the winner of the election. All of this information printed both in the terminal and in a [text file](https://github.com/teachjanderson/Election_Analysis/blob/main/Resources/election_results.txt). 
 
+[The Election Results](https://github.com/teachjanderson/Election_Analysis/blob/main/Resources/election_results.csv), in a CSV file, were analyzed used Python 3.76 and Vistual Studio Code 1.6
+
 ## Election-Audit Results
 
 The results of the election and pertinent questions pertaining to the election are answered in the series of questions below and summarized below. 
@@ -32,8 +34,9 @@ Denver with 306,055 votes
 **Election Winner:**
 Diane DeGette 73.8% of the votes or 272,892 total votes
   
+## Election-Audit Summary
+The script developed for this election audit is beneficial in future or alternative elections as it is easily modifiable. While the simplest use is similar elections, modification for the criteria can easily be made if the dataset provides more information. This might include demographical or specific geographic information about the voters. This could lend itself to finding patterns in the data that could increase voter turnout for future elections. As this dataset loads information from [The Election Results](https://github.com/teachjanderson/Election_Analysis/blob/main/Resources/election_results.csv) file, this is easily interchangeable with similar elections. While this election took place at the county level, state or federal elections could easily be changed. In the image below you can see the script is general and used for any candidate. this could include elections outside the realm of politics. 
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-
+  
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
