@@ -14,9 +14,9 @@ The results of the election and pertinent questions pertaining to the election a
 The election included 369,711 total votes split between three counties. Overall, Denver received the most votes with 8 2.8% or 306,055 votes. Jefferson followed after with 10.5% or 38,855 votes. Arapahoe received 6.7% or 24,801 votes. For the candidates, Diana DeGette won the election with 73.8% or 272,892 votes. Charles Casper Stockham came in second and received 23% or 85,213 votes. Raymon Anthony Doane received 3.1% or 11,606 votes. 
 
 **Breakdown by County**
-* Denver 82.8% (306, 055)
-* Jeferson 10.5% (38.855
-* Arapahoe 6.7% (24,801)
+1. Denver 82.8% (306, 055)
+1. Jeferson 10.5% (38.855
+1. Arapahoe 6.7% (24,801)
 
 
 
