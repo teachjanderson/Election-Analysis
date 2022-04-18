@@ -36,6 +36,11 @@ Diane DeGette 73.8% of the votes or 272,892 total votes
   
 ## Election-Audit Summary
 The script developed for this election audit is beneficial in future or alternative elections as it is easily modifiable. While the simplest use is similar elections, modification for the criteria can easily be made if the dataset provides more information. This might include demographical or specific geographic information about the voters. This could lend itself to finding patterns in the data that could increase voter turnout for future elections. As this dataset loads information from [The Election Results](https://github.com/teachjanderson/Election_Analysis/blob/main/Resources/election_results.csv) file, this is easily interchangeable with similar elections. While this election took place at the county level, state or federal elections could easily be changed. In the image below you can see the script is general and used for any candidate. this could include elections outside the realm of politics. 
+  
+<p align="center">
+<img src="https://github.com/teachjanderson/Election_Analysis/blob/main/Resources/Script.png" />
+  
+Similar code exists to analyze the county level data. Adjustments could be made as these are simply variables in the data. As the data changes, these variables can still exist to analyze their new content and context. Please consider this script for use in future elections where it can be of benefit. 
 
 
   
