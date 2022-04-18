@@ -13,24 +13,24 @@ The results of the election and pertinent questions pertaining to the election a
 **How many votes were cast in this congressional election?**
 The election included 369,711 total votes split between three counties. Overall, Denver received the most votes with 8 2.8% or 306,055 votes. Jefferson followed after with 10.5% or 38,855 votes. Arapahoe received 6.7% or 24,801 votes. For the candidates, Diana DeGette won the election with 73.8% or 272,892 votes. Charles Casper Stockham came in second and received 23% or 85,213 votes. Raymon Anthony Doane received 3.1% or 11,606 votes. 
 
-**Total Votes**
-:369,711
+**Total Votes:**
+369,711
   
 **Breakdown by County**
 1. Denver 82.8% (306, 055)
 1. Jeferson 10.5% (38.855
 1. Arapahoe 6.7% (24,801)
   
-**Highest Voter Turnout**
-:Denver 306,055 votes
+**Highest Voter Turnout:**
+Denver with 306,055 votes
 
 **Breakdown by Candidate**
 1. Diana DeGette 73.8% (272,892)
 1. Charles Casper Stockham 23.0% (85,213)
 1. Raymon Anthony Doane 3.1% (11,606)
   
-**Election Winner**
-:Diane DeGette 73.8% of the votes or 272,892 total votes
+**Election Winner:**
+Diane DeGette 73.8% of the votes or 272,892 total votes
   
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
