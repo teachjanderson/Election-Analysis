@@ -1,7 +1,7 @@
 # Election-Analysis
 ## Overview of Election Audit
 
-The purpose of this election audit was delivering several final products as a result of a Python code. The overall products involved election results. The first was obtaining the results of the election from around ~370,000 votes. These votes were counted from three counties: Jefferson, Denver, and Arapahoe and included three final candidates: Stockham, DeGette, and Doane. The results included the voter count by county, the count by candidate, and the largest turnout by county along with the winner of the election. All of this information printed both in the terminal and in a text file. 
+The purpose of this election audit was delivering several final products as a result of a Python code. The overall products involved election results. The first was obtaining the results of the election from around ~370,000 votes. These votes were counted from three counties: Jefferson, Denver, and Arapahoe and included three final candidates: Stockham, DeGette, and Doane. The results included the voter count by county, the count by candidate, and the largest turnout by county along with the winner of the election. All of this information printed both in the terminal and in a [text file](https://github.com/teachjanderson/Election_Analysis/blob/main/Resources/election_results.txt). 
 
 ## Election-Audit Results
 
